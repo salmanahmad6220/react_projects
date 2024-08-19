@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salmanahmad6220/react_projects.git/static/css/main.56275738.css",
+    "main.js": "/salmanahmad6220/react_projects.git/static/js/main.e1fbb484.js",
+    "index.html": "/salmanahmad6220/react_projects.git/index.html",
+    "main.56275738.css.map": "/salmanahmad6220/react_projects.git/static/css/main.56275738.css.map",
+    "main.e1fbb484.js.map": "/salmanahmad6220/react_projects.git/static/js/main.e1fbb484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56275738.css",
+    "static/js/main.e1fbb484.js"
+  ]
+}
