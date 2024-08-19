@@ -1,0 +1,12 @@
+.log_in{
+    background-color: #f0f2f5;
+    width: 450px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+.input_login{
+    width:100%
+  }
